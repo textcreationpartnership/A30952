@@ -1,0 +1,729 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Noctes hibernæ, winter-nights exercises the first night : VII decads of sacred sentences / put into English verse.</title>
+            <author>Barksdale, Clement, 1609-1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30952</idno>
+            <idno type="STC">Wing B803</idno>
+            <idno type="STC">ESTC R37063</idno>
+            <idno type="EEBO-CITATION">16199274</idno>
+            <idno type="OCLC">ocm 16199274</idno>
+            <idno type="VID">105056</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30952)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105056)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1085:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Noctes hibernæ, winter-nights exercises the first night : VII decads of sacred sentences / put into English verse.</title>
+                  <author>Barksdale, Clement, 1609-1687.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Warren for Edmund Thorn ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Barksdale by Wing and NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105056:1"/>
+            <pb facs="tcp:105056:1" rendition="simple:additions"/>
+            <p>
+               <hi>NOCTES HIBERNAE. Winter-nights Exerciſes.</hi>
+            </p>
+            <p>THE FIRST NIGHT.</p>
+            <p>VII: Decads of ſacred Sen<g ref="char:EOLhyphen"/>tences put into Eng<g ref="char:EOLhyphen"/>liſh verſe.</p>
+            <q>
+               <bibl>
+                  <hi>LUCRETIUS.</hi>
+               </bibl>
+               <l>Floriferis ut apes in ſaltibus omnia libant:</l>
+               <l>Omnia nos itidem depaſcimur aurea dicta,</l>
+               <l>Aurea, perpetuâ ſemper digniſſima vitá.</l>
+            </q>
+            <p>LONDON, Printed by <hi>Tho. Warren,</hi> for <hi>Edmund Thorn,</hi> at <hi>Oxford,</hi> 1652.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:105056:2"/>
+            <pb facs="tcp:105056:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <hi>NOn Schola, ſed contubernium,</hi> ſaith <hi>Seneca,</hi> It is not ſo much the <hi>School-Lectures,</hi> as the <hi>domeſtic-converſation</hi> of the Maſter, makes a Scholar. Some have learned more of their Teacher, in an houres <hi>walk,</hi> or on a <hi>fire-night,</hi> than ſitting at the <hi>desk</hi> all the day. Theſe following <hi>exerciſes,</hi> you may ſuppoſe, had their birth by the fire-ſide, while the Maſter and his Scholars burnt away the long <hi>Winter-nights:</hi> the Maſter propoſing the <hi>Latin Sentences,</hi> as they came to mind, and the ten Scholars in their courſes rendring theſe in the <hi>Eng<g ref="char:EOLhyphen"/>liſh verſe.</hi> Certainly there is no <hi>hurt,</hi> what <hi>good</hi> is in it, or in the <hi>example,</hi> let the courteous <hi>Reader</hi> judge.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:105056:3"/>
+            <pb n="5" facs="tcp:105056:3"/>
+            <head>SACRED SENTENCES.</head>
+            <div n="1" type="decade">
+               <head>THE FIRST DECAD.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>
+                     <hi>Gratis accepiſtis, gratis date.</hi> Chriſtus.</l>
+                  <l>GOd's <hi>Gifts,</hi> on this condition, we have:</l>
+                  <l>
+                     <hi>Freely</hi> muſt we Give, what He <hi>freely</hi> Gave.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>
+                     <hi>Ex abundantia cordis, os loquitur.</hi> Chriſt.</l>
+                  <l>The <hi>Speech</hi> bewrayes the man. The <hi>heart</hi> doth fill</l>
+                  <l>The mouth. <hi>Words,</hi> as the Heart, are good or ill.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>
+                     <hi>Vince malum bono.</hi> Paulus.</l>
+                  <l>Do <hi>good</hi> for <hi>evil</hi> to thy Enemy.</l>
+                  <l>This is the <hi>nobleſt</hi> kind of Victory.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>
+                     <hi>Igne charitatis comburendi ſunt Haeretici.</hi> Luth.</l>
+                  <l>Are Hereticks to be <hi>burnt?</hi> No certainly:</l>
+                  <l>Unleſs with the <hi>ſoft fire</hi> of Charity.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>
+                     <hi>Nec religionis eſt, cogere Religionem.</hi> Tertul.</l>
+                  <l>
+                     <hi>Perſwade</hi> men to believe, and to live well:</l>
+                  <l>'Tis <hi>Tyranny,</hi> not <hi>Religion,</hi> to <hi>compell.</hi>
+                  </l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>
+                     <hi>Mediis utendum, non innitendum.</hi>
+                  </l>
+                  <l>It is our Wiſdom all good <hi>means</hi> to try,</l>
+                  <l>But upon <hi>God,</hi> and not on them, rely.</l>
+               </lg>
+               <lg n="7">
+                  <pb n="6" facs="tcp:105056:4"/>
+                  <head>7.</head>
+                  <l>
+                     <hi>Bona mea tibi non placent, niſi mecum.</hi> Bern.</l>
+                  <l>All thy <hi>Goods</hi> pleaſe not <hi>God,</hi> unleſs thou do</l>
+                  <l>Offer (the <hi>beſt</hi> Oblation) <hi>Thy ſelf</hi> too.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>
+                     <hi>Non bona tua mihi placent, niſi Tecum.</hi> Id.</l>
+                  <l>All <hi>God's gifts</hi> pleaſe not thee, unleſs He do</l>
+                  <l>Beſtow (the <hi>beſt</hi> of all) his own <hi>ſelf</hi> too.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>
+                     <hi>Honoramus Angelos charitate, non ſervitute.</hi> Aug.</l>
+                  <l>The <hi>Angels</hi> we do honour with our love:</l>
+                  <l>We worſhip <hi>Him</hi> alone, that's all-above.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>
+                     <hi>Sacerdotum arma ſunt preces &amp; lacrymae.</hi> Amb.</l>
+                  <l>The <hi>Armour,</hi> which the Holy <hi>Paſtor</hi> wears,</l>
+                  <l>Are only Theſe: His <hi>Prayers</hi> and his <hi>Tears,</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="2" type="decade">
+               <head>THE SECOND DECAD.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>
+                     <hi>Omnis infidelium vita peccatnm.</hi> Proſper.</l>
+                  <l>TIl, to believe in <hi>Chriſt,</hi> thou doſt begin,</l>
+                  <l>Thy whole life, yea and thy <hi>good deeds,</hi> are ſin.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>
+                     <hi>Acerba mihi vita otioſa.</hi> Calvin.</l>
+                  <l>My pains and labour's <hi>ſweet.</hi> Then I diſpleaſe</l>
+                  <l>My ſelf moſt, when I moſt do take mine <hi>eaſe.</hi>
+                  </l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>
+                     <hi>Qui parcit Lupo, mactat gregem.</hi> Chryſoſt.</l>
+                  <l>Spare the <hi>wolf,</hi> ſpoil the <hi>flock.</hi> If not withſtood,</l>
+                  <l>The <hi>Bad</hi> would quickly ſwallow up the <hi>Good.</hi>
+                  </l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>
+                     <hi>Deus morum emendatione placatur.</hi>
+                  </l>
+                  <l>How ſhall I'appeaſe God? by what <hi>Sacrifice?</hi>
+                  </l>
+                  <l>Amend thy <hi>life,</hi> and that will Him ſuffice.</l>
+               </lg>
+               <lg n="5">
+                  <pb n="7" facs="tcp:105056:4"/>
+                  <head>5.</head>
+                  <l>
+                     <hi>Tempus Vitae, tempus Poenitentiae.</hi>
+                  </l>
+                  <l>Caſt not all hope away. Whilſt there is <hi>breath,</hi>
+                  </l>
+                  <l>There's time to <hi>pray:</hi> but no hope after death.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>
+                     <hi>Poenitentia ſera, raro vera.</hi>
+                  </l>
+                  <l>
+                     <hi>Deferr</hi> not to <hi>repent.</hi> 'Tis ſeldom <hi>true</hi>
+                  </l>
+                  <l>That's not done, 'til you bid the world <hi>Adieu.</hi>
+                  </l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>
+                     <hi>Amat, quia amat.</hi> Bern.</l>
+                  <l>
+                     <hi>Why</hi> have we ſo much kindneſs from above?</l>
+                  <l>There is no <hi>cauſe</hi> of Gods love, but his <hi>love.</hi>
+                  </l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>
+                     <hi>Doleat homo Chriſtianus, &amp; de dolore gaudeat.</hi> Auguſtin.</l>
+                  <l>
+                     <hi>Grieve,</hi> that thou haſt ſo often, for a toy,</l>
+                  <l>Diſpleas'd thy God; thy <hi>Grief</hi> will turn to <hi>Joy.</hi>
+                  </l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>
+                     <hi>Imminet occaſioni ſuae Diabolus.</hi> Hieronym.</l>
+                  <l>Beware of <hi>Idleneſs:</hi> for then's the time,</l>
+                  <l>
+                     <hi>Satan</hi> betrayes thee to the fouleſt crime.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>
+                     <hi>Dei providentiam, non minus Gehenna com<g ref="char:EOLhyphen"/>mendat, quàm promiſſio regni.</hi> Chryſoſt.</l>
+                  <l>To <hi>promiſe</hi> Heaven, and to <hi>threaten</hi> Hell;</l>
+                  <l>That ſhews Gods care of us, &amp; This as well.</l>
+               </lg>
+            </div>
+            <div n="3" type="decade">
+               <head>THE THIRD DECAD.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>
+                     <hi>Affectum inquirit, non factum exigit.</hi> Ambroſ. <hi>de Abrahamo.</hi>
+                  </l>
+                  <l>THe <hi>Will's</hi> prov'd and accepted: but the <hi>Fact</hi>
+                  </l>
+                  <l>God doth not alwayes rigidly exact.</l>
+               </lg>
+               <lg n="2">
+                  <pb n="8" facs="tcp:105056:5"/>
+                  <head>2.</head>
+                  <l>
+                     <hi>Ubi peccatum, ibi procella.</hi> Chryſoſt.</l>
+                  <l>The raging <hi>Tempeſt,</hi> that our Ship is in,</l>
+                  <l>Whence is it, but from our more raging <hi>Sin?</hi>
+                  </l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>
+                     <hi>Lacrymae Auditorum, laudes tuae.</hi> Hierom.</l>
+                  <l>The greateſt <hi>praiſe</hi> unto the <hi>Preacher</hi> comes</l>
+                  <l>From the Attentive Hearer's <hi>tears,</hi> not <hi>humnes.</hi>
+                  </l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>
+                     <hi>Tu qui Chriſtianus es, fugeforum.</hi> Chryſoſt.</l>
+                  <l>Go not to <hi>Market:</hi> or exactly ſee,</l>
+                  <l>Thou deceive none in ſelling, and none thee.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>
+                     <hi>Deus eſt totus oculus.</hi> Auguſt.</l>
+                  <l>Hope not to hide thy ſelf, where <hi>God</hi> can't ſpy;</l>
+                  <l>Nor boldly ſin ith' dark; for He's <hi>all-eye.</hi>
+                  </l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>
+                     <hi>Divites diſpenſatores Dei.</hi> Hieron.</l>
+                  <l>
+                     <hi>Rich</hi> men are God's <hi>dispenſers.</hi> What they have,</l>
+                  <l>Is not ſo much their own, as <hi>God's</hi> that gave.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>
+                     <hi>Ars artium, regere hominem.</hi> Nazian.</l>
+                  <l>Among all <hi>Arts,</hi> human invention can</l>
+                  <l>Find out, the <hi>greateſt</hi> is to govern <hi>Man.</hi>
+                  </l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>
+                     <hi>Superiores ſunt, qui ſuperiores eſſe ſciunt.</hi> Bernard.</l>
+                  <l>Above the reſt, truly <hi>ſuperiours</hi> be</l>
+                  <l>They that well <hi>uſe</hi> ſuperiority.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>
+                     <hi>Fides ſuadenda, non imponenda.</hi> Id.</l>
+                  <l>More to the true <hi>Religion,</hi> you ſhall draw,</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y fair <hi>perſwaſion,</hi> than by <hi>force</hi> of law.</l>
+               </lg>
+               <lg n="10">
+                  <pb n="9" facs="tcp:105056:5"/>
+                  <head>10.</head>
+                  <l>
+                     <hi>Non remittitur peccatum, niſi reſtitua<g ref="char:EOLhyphen"/>tur ablatum.</hi> Auguſt.</l>
+                  <l>Ask God for <hi>pardon:</hi> but firſt, if you can,</l>
+                  <l>What you unjuſtly took, <hi>reſtore</hi> to man.</l>
+               </lg>
+            </div>
+            <div n="4" type="decade">
+               <head>THE FOURTH DECAD.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>
+                     <hi>Beatius eſt dare, quàm accipere.</hi> Chriſt.</l>
+                  <l>MOſt men had rather <hi>take,</hi> than give: but more</l>
+                  <l>Bleſſed is he that <hi>gives</hi> out his ſtore.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>
+                     <hi>Orationi lectio, lectioni ſuccedat oratio.</hi> Hier.</l>
+                  <l>Pray, read: read, pray. Ingenuous Scholars ſhou'd</l>
+                  <l>Uſe this Religious <hi>Viciſſitude.</hi>
+                  </l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>
+                     <hi>Clavis ſcientiae, frequens Interrogatio.</hi>
+                  </l>
+                  <l>Frequent Interrogation is the <hi>Key</hi>
+                  </l>
+                  <l>To open unto <hi>Wiſedoms</hi> houſe the way.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>
+                     <hi>Adverſarius in pectore conatur Chriſtum occidere.</hi> Hieronym.</l>
+                  <l>Guard thy Grace well; for, beſide all the reſt,</l>
+                  <l>Thou haſt an <hi>enemy</hi> in thy own <hi>breſt.</hi>
+                  </l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>
+                     <hi>Sufficit diei malitia ſua.</hi> Chriſt.</l>
+                  <l>
+                     <hi>Load</hi> not thy ſelf with cares beyond this night:</l>
+                  <l>The burden of <hi>one</hi> ſingle day's not light.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>
+                     <hi>Ubi theſaurus, ibi &amp; cor.</hi> Chriſt.</l>
+                  <l>Lay up in <hi>heav'n</hi> thy treaſure. Surely where</l>
+                  <l>Thy treaſure is, thy <hi>heart</hi> is alſo there.</l>
+               </lg>
+               <lg n="7">
+                  <pb n="10" facs="tcp:105056:6"/>
+                  <head>7.</head>
+                  <l>
+                     <hi>Quis te diſcrevit?</hi> Paulus.</l>
+                  <l>Haſt thou 'bove others any <hi>Excellence?</hi>
+                  </l>
+                  <l>Remember, <hi>God</hi> hath made the difference.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>
+                     <hi>Non eſt ad Deum toto corde redire, niſi ſciſſo corde.</hi> Bernard.</l>
+                  <l>The <hi>contrite</hi> heart is beſt, not ſtone or oak:</l>
+                  <l>And that heart's <hi>whole</hi> to God, that is ſo broke.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>
+                     <hi>Nemo poteſt duobus Dominis ſervire.</hi> Chriſt.</l>
+                  <l>
+                     <hi>Two</hi> Maſters are too much. If you ſerve <hi>one,</hi>
+                  </l>
+                  <l>And him the beſt, you muſt ſerve <hi>him</hi> alone.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>
+                     <hi>Quod tibi factum vis, alteri feceris.</hi> Chriſt.</l>
+                  <l>Whatever you'd have to be done to you,</l>
+                  <l>Render the <hi>ſame</hi> unto your Neighbour too.</l>
+               </lg>
+            </div>
+            <div n="5" type="decade">
+               <head>THE FIFT DECAD.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>
+                     <hi>Inimici hominis, domeſtici ejus.</hi> Chriſt.</l>
+                  <l>LOok <hi>circumſpectly</hi> to thy ſelf: for ſome</l>
+                  <l>Will be thy <hi>Enemies</hi> at thy own <hi>home.</hi>
+                  </l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>
+                     <hi>In auribus Dei, deſiderium vehemens clamor magnus.</hi> Bernard.</l>
+                  <l>God doth not onely <hi>vocal</hi> prayer hear:</l>
+                  <l>A ſtrong <hi>deſire's</hi> a <hi>clamor</hi> in his ear.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>
+                     <hi>Facit hoſtis ſecuros, quos cupit eſſe captivos.</hi> Auguſt.</l>
+                  <l>Satan's grand plot is to make us <hi>ſecure:</hi>
+                  </l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>r then he may ſoon make us <hi>Captives</hi> ſure.</l>
+               </lg>
+               <lg n="4">
+                  <pb n="11" facs="tcp:105056:6"/>
+                  <head>4.</head>
+                  <l>
+                     <hi>E centum millibus vix bene moritur, qui male vixit.</hi> Hieron.</l>
+                  <l>He that lives all his <hi>life</hi> ill, and well <hi>dies,</hi>
+                  </l>
+                  <l>One, of a (thouſand?) hundred thouſand is.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>
+                     <hi>Ibi pecca, ubi Deus non videt.</hi> Bernard.</l>
+                  <l>In that place take the boldneſs for to <hi>ſin,</hi>
+                  </l>
+                  <l>(If thou canſt find it) where <hi>God</hi> looks not in.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>
+                     <hi>Nec ſperes aliquid, nec extimeſcas.</hi> Boet.</l>
+                  <l>Be not diſturbed, nor with <hi>hope</hi> nor <hi>fear:</hi>
+                  </l>
+                  <l>Keep thy minde from all clouds of paſſion clear.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>
+                     <hi>Calamitas ſaepe diſciplina virtutis eſt.</hi> Minut.</l>
+                  <l>Evils have <hi>good</hi> effects. Oft-times the <hi>fool</hi>
+                  </l>
+                  <l>Growes <hi>wiſe,</hi> being taught in ſharp afflictions ſchool.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>
+                     <hi>Non eloquimur magna, ſed vivimus.</hi> Id.</l>
+                  <l>Our <hi>deeds</hi> excell our <hi>words:</hi> ſaid they of old.</l>
+                  <l>But now, our <hi>hands</hi> are faint, our <hi>tongues</hi> are bold</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>
+                     <hi>Infeliciores, qui faciunt, quàm qui pa<g ref="char:EOLhyphen"/>tiuntur injuriam.</hi> Boet.</l>
+                  <l>In true eſteem, they more unhappy be,</l>
+                  <l>Who <hi>offer,</hi> than who <hi>ſuffer</hi> Injury.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>
+                     <hi>Quid juſtius? Non audivimus, non audimur.</hi> Salvianus.</l>
+                  <l>We may, if, when God calls, <hi>we</hi> will not hear,</l>
+                  <l>That <hi>God</hi> will not hear our call, juſtly fear.</l>
+               </lg>
+            </div>
+            <div n="6" type="decade">
+               <pb n="12" facs="tcp:105056:7"/>
+               <head>THE SIXT DECAD.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>
+                     <hi>Volumus delinquere, &amp; nolumns verberari.</hi> Salv.</l>
+                  <l>WE all are apt and prone to <hi>do offence,</hi>
+                  </l>
+                  <l>But would not <hi>bear</hi> the <hi>ſmart</hi> that followes thence.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>
+                     <hi>Qui vadit plane, vadit ſane.</hi> Salomon.</l>
+                  <l>Who walks <hi>uprightly</hi> and goes not aſtray,</l>
+                  <l>Walks in the <hi>ſafeſt</hi> and moſt happy way.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>
+                     <hi>In multiloquio non de erit peccatum.</hi> Id.</l>
+                  <l>The place is ſlippry, where the <hi>Tongue</hi> doth dwell:</l>
+                  <l>'Tis rare, for one to ſpeak <hi>much,</hi> &amp; ſpeak <hi>well.</hi>
+                  </l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>
+                     <hi>Domus mea, domus Orationis.</hi> Deus.</l>
+                  <l>God ſaith, <hi>My</hi> houſe the houſe of Prayer is,</l>
+                  <l>May not we ſay, The houſe of Pray'r is <hi>His?</hi>
+                  </l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>
+                     <hi>Vigilate &amp; orate.</hi> Chriſtus.</l>
+                  <l>
+                     <hi>Watching</hi> and <hi>Pray'r</hi> are well joynd. Surely He</l>
+                  <l>Prays not aright, whoſe prayers drowſy be.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>
+                     <hi>Humanae mentis vitium eſt, magis ſemper velle quae deſnnt.</hi> Salv.</l>
+                  <l>'Tis <hi>folly,</hi> good things <hi>preſent</hi> to deſpiſe,</l>
+                  <l>And on the <hi>abſent</hi> alwayes caſt our eyes.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>
+                     <hi>Nulla major voluptas, quàm vo<g ref="char:EOLhyphen"/>luptatis faſtidium.</hi>
+                  </l>
+                  <l>No greater <hi>pleaſure</hi> to the braveſt men,</l>
+                  <l>Than ſordid wayes of pleaſure to contemn.</l>
+               </lg>
+               <lg n="8">
+                  <pb n="13" facs="tcp:105056:7"/>
+                  <head>8.</head>
+                  <l>
+                     <hi>Divitiae ſi diliguntur, ibi ſerventur, ubi perire non poſſunt.</hi> Auguſtin.</l>
+                  <l>Your Goods and riches if you truly <hi>Love,</hi>
+                  </l>
+                  <l>And would <hi>ſecure</hi> them, lay them up <hi>above.</hi>
+                  </l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>
+                     <hi>Mendici Dei ſumus: ut cognoſcat ille men<g ref="char:EOLhyphen"/>dicos ſuos, cognoſcamns nos noſtros.</hi> Id.</l>
+                  <l>We are <hi>Gods</hi> Almes-men: that we may be known,</l>
+                  <l>And heard by <hi>him,</hi> let's not forget <hi>our own.</hi>
+                  </l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>
+                     <hi>Quomodo poteſt obſervari à populo, qui nihil habet ſecretum à populo.</hi> Id.</l>
+                  <l>Obſervance from the <hi>people</hi> how can he</l>
+                  <l>Expect, whoſe <hi>manners</hi> only <hi>vulgar</hi> be?</l>
+               </lg>
+            </div>
+            <div n="7" type="decade">
+               <head>THE SEVENTH DECAD.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>
+                     <hi>Habenti dabitur.</hi> Chriſtus.</l>
+                  <l>HE that <hi>employs</hi> his <hi>Talent,</hi> ſhall have more:</l>
+                  <l>The <hi>ſlothfull</hi> loſes what he had before.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>
+                     <hi>Unum eſt neceſſarium.</hi> Id.</l>
+                  <l>Men of this world <hi>many</hi> things needfull call:</l>
+                  <l>But Chriſt ſaith, He that hath <hi>one</hi> thing hath <hi>all.</hi>
+                  </l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>
+                     <hi>Beati pacifici.</hi> Id.</l>
+                  <l>The name of <hi>Peace</hi> is ſweet: and peacefull Ones</l>
+                  <l>The <hi>God</hi> of Peace owns for his <hi>genuine</hi> Sons.</l>
+               </lg>
+               <lg n="4">
+                  <pb n="14" facs="tcp:105056:8"/>
+                  <head>4.</head>
+                  <l>
+                     <hi>Omnia iſta contemnito, quibus ſolutus cor<g ref="char:EOLhyphen"/>pore non indigebis.</hi>
+                  </l>
+                  <l>What things you ſhall not <hi>need,</hi> when <hi>ſeparate</hi>
+                  </l>
+                  <l>From this frail body, prize at a low rate.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>
+                     <hi>Natalis Domini, natalis eſt pacis.</hi> Leo.</l>
+                  <l>Why ſhould the memory of <hi>Chriſt's Birth-day</hi> ceaſe?</l>
+                  <l>
+                     <hi>His</hi> Birth-day is the Birth-day of our <hi>Peace.</hi>
+                  </l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>
+                     <hi>Reconciliatione contempta, nullum poſſu<g ref="char:EOLhyphen"/>mus promereri ſolatium.</hi> Chryſoſt.</l>
+                  <l>Themſelves to <hi>men,</hi> who will not <hi>reconcile,</hi>
+                  </l>
+                  <l>Yet look for peace from <hi>God,</hi> themſelves beguile.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>
+                     <hi>Attende ad coeleſtia bona, &amp; videbis quod omnia iſta temporalia nulla ſunt.</hi> Thomas à Kempis.</l>
+                  <l>Look up to heav'n; <hi>eternall</hi> things are there:</l>
+                  <l>The <hi>temporall</hi> compar'd <hi>nothing</hi> appear.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>
+                     <hi>Noli nimis in ſenſu tuo confidere.</hi> Id.</l>
+                  <l>Be not too <hi>confident</hi> in thy own <hi>ſenſe:</hi>
+                  </l>
+                  <l>But <hi>value</hi> other mens intelligence.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>
+                     <hi>Soli Deo &amp; Angelis ejus opta familiaris eſſe, &amp; hominum notitiam devita.</hi> Id.</l>
+                  <l>Shun much acquaintance. <hi>God</hi> and <hi>Angels</hi> are</l>
+                  <l>
+                     <hi>Companions</hi> only worthy of our care.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>
+                     <hi>Levis omiſſio exercitiorum vix ſine aliquo diſpendio tranſit.</hi> Id.</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e <hi>conſtant</hi> to thy exerciſe, <hi>Omiſſion</hi>
+                  </l>
+                  <l>(Though but for once) begets <hi>indiſpoſition.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
